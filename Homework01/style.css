@@ -1,0 +1,40 @@
+Body {
+  background-color: #0A0B0D;
+  Background-image:url("images/lookout.jpg");
+  background-position: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Roboto+Mono:wght@700&display=swap');
+
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto Mono', monospace;
+
+h1{
+  margin: 0;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bold 700;
+  color: #1A1E26;
+  text-align: center;
+}
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 1000;
+  color: #2C3540;
+}
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-style: italic;
+  color: #5A6473;
+}
+.site-heading {
+  width: 60%;
+  margin: 4em auto;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+#site-title {
+line-height: 1em;
+font-size: 3em;
+color: #1A1E26;
+}
