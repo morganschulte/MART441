@@ -1,8 +1,11 @@
 body, htiml{
   height:100%;
 }
+body {
+  background-color: black;
+}
 .hero-image {
-  background-image: src=("./imgs/hero.jpg");
+  background-image: url("/imgs/hero.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
