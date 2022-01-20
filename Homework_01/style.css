@@ -8,6 +8,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  font-family: 'Andada Pro', serif;
 }
 .hero-image {
   background-image: url("./imgs/hero2.jpeg");
