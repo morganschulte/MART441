@@ -33,6 +33,11 @@ h1 {
 h2{
   font-family: 'Andada Pro', serif;
 }
+@media (min-width: 781px) {
+    .hero-text {
+      font-size: 22pt
+    }
+}
 @media (max-width: 780px) {
     .hero-image {
         min-height: 320px;
@@ -48,7 +53,5 @@ h2{
     }
     .hero-text {
         font-size: 14pt;
-        margin: 0;
-        margin-top: 40px;
     }
 }
