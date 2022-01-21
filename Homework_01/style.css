@@ -27,3 +27,9 @@ body {
   transform: translate(-50%, -50%);
   color: white;
 }
+h1 {
+  font-family: 'Sora', sans-serif;
+}
+h2{
+  font-family: 'Andada Pro', serif;
+}
