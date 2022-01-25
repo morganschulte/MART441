@@ -66,7 +66,7 @@ p {
 }
 .portrait {
   background-image: url("./imgs/me.jpeg");
-  max-width: 33%;
+  max-width: 66vh;
   height: 66vh;
   margin-left: auto;
   margin-right: auto;
