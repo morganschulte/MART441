@@ -1,1 +1,7 @@
-This is the 1st homework assignment
+Homework 1
+
+This week's work focused on building a homepage using html and css. This was a refresher, but took longer than I thought it would. I took my html and css class in Spring of 2020, so I was rusty on a lot of topics. I looked at the sample site and code provided, and decided to go with a similar layout. I used W3 schools for their information on hero images, as well as radiuses for curved edges on photos, navigation linking, and photo layout.
+
+My first issue was with image formatting. I had several failed attempts at getting an image that would show up. My first issue was with an image size that was too large. I went into Adobe Lightroom and exported my image at a smaller size. My next issues were with the image (and other changes to my code) not showing up in the live site. I had that problem throughout the assignment, but I looked up the issue and resolved it by clearing the cache in my browser history. I'll remember that for future projects. My last issue was with an image that I included of myself for my About Me. It looked great on my computer, but when I tried it out on my phone, the photo ended up cropping out most of the subject. I originally had the photo sized with percent values, and changed that to vh. That did the trick.
+
+Overall, this was a great refresher on what I learned a couple years ago. I had to walk away a couple times, but I got through it. My main takeaways are to prepare files before trying to link them (especially images), to look at my browser settings before jumping into rewriting code if my live site isn't loading properly, and to try different formats for uploading images so that they will work for both mobile and desktop. 
